@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\PP2\PracticeExamples\Example2\Example2\bin\Debug\Example2.exe.config
+C:\Users\Asus\Desktop\PP2\PracticeExamples\Example2\Example2\bin\Debug\Example2.exe
+C:\Users\Asus\Desktop\PP2\PracticeExamples\Example2\Example2\bin\Debug\Example2.pdb
+C:\Users\Asus\Desktop\PP2\PracticeExamples\Example2\Example2\obj\Debug\Example2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PP2\PracticeExamples\Example2\Example2\obj\Debug\Example2.exe
+C:\Users\Asus\Desktop\PP2\PracticeExamples\Example2\Example2\obj\Debug\Example2.pdb

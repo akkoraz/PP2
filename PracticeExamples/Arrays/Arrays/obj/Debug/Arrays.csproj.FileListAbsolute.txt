@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\PP2\PracticeExamples\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Asus\Desktop\PP2\PracticeExamples\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Asus\Desktop\PP2\PracticeExamples\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Asus\Desktop\PP2\PracticeExamples\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PP2\PracticeExamples\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Asus\Desktop\PP2\PracticeExamples\Arrays\Arrays\obj\Debug\Arrays.pdb

@@ -1,6 +1,0 @@
-C:\Users\Asus\Desktop\PP2\PracticeExamples\Example3\Example3\bin\Debug\Example3.exe.config
-C:\Users\Asus\Desktop\PP2\PracticeExamples\Example3\Example3\bin\Debug\Example3.exe
-C:\Users\Asus\Desktop\PP2\PracticeExamples\Example3\Example3\bin\Debug\Example3.pdb
-C:\Users\Asus\Desktop\PP2\PracticeExamples\Example3\Example3\obj\Debug\Example3.csproj.CoreCompileInputs.cache
-C:\Users\Asus\Desktop\PP2\PracticeExamples\Example3\Example3\obj\Debug\Example3.exe
-C:\Users\Asus\Desktop\PP2\PracticeExamples\Example3\Example3\obj\Debug\Example3.pdb

@@ -1,7 +1,0 @@
-C:\Users\Asus\Desktop\PP2\PracticeExamples\Example1\Example1\bin\Debug\Example1.exe.config
-C:\Users\Asus\Desktop\PP2\PracticeExamples\Example1\Example1\bin\Debug\Example1.exe
-C:\Users\Asus\Desktop\PP2\PracticeExamples\Example1\Example1\bin\Debug\Example1.pdb
-C:\Users\Asus\Desktop\PP2\PracticeExamples\Example1\Example1\obj\Debug\Example1.csprojAssemblyReference.cache
-C:\Users\Asus\Desktop\PP2\PracticeExamples\Example1\Example1\obj\Debug\Example1.csproj.CoreCompileInputs.cache
-C:\Users\Asus\Desktop\PP2\PracticeExamples\Example1\Example1\obj\Debug\Example1.exe
-C:\Users\Asus\Desktop\PP2\PracticeExamples\Example1\Example1\obj\Debug\Example1.pdb

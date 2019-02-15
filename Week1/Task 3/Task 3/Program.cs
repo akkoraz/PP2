@@ -8,25 +8,36 @@ namespace Task_3
 {
     class Program
     {
-        static void clon() //creating method
+        public static void replace(int[] arr, int[] arr1, int q, int x, int n, string[] str)//functon 
         {
-            string a = Console.ReadLine(); //input in string s
-            int cnt = 0;
-            string[] massiv = a.Split(' ');//input every number seperate string,sorted with hepls split(split seperates value every space)
-            string[] massiv2 = new string[massiv.Length + massiv.Length];//create new array fot repeating numbers
-            for (int i = 0; i < massiv.Length; i++) //cycle for from 0 to length of array
+            for (int i = 0; i < n; i++)
             {
-                massiv2[cnt++] = massiv[i];//output value of array 2 times
-                massiv2[cnt++] = massiv[i];
+                arr[i] = Convert.ToInt32(str[i]);//Convert from string to int 
             }
-            for (int j = 0; j < massiv2.Length; j++)
+            for (int i = 0; i < n; i++)
             {
-                Console.Write("{0}", massiv2[j]);//output array with repeating numbers
+                for (int j = q; j < x; j++)
+                {
+                    arr1[j] = arr[i];//2nd array's 2nd element equals to 1st array's 1st element 
+                }
+                q += 2;//Adding 2 to increase array's location 
+            }
+            for (int i = 0; i < x; i++)
+            {
+                Console.Write(arr1[i] + " ");//output numbers of arr1 + space 
             }
         }
-        static void Main(string[]args)
+
+        static void Main(string[] args)
         {
-            clon();//call method
+            int n = Convert.ToInt32(Console.ReadLine());//size of array 
+            int[] arr = new int[n];//one dim array with size n 
+            int x = n * 2; //multiply by 2 to 2nd array             
+            int q = 0; //new int  
+            int[] arr1 = new int[x]; //one dim array with size x 
+            string s = Console.ReadLine();//transfer the string  
+            string[] str = s.Split(); //Every element splitted by space 
+            replace(arr, arr1, q, x, n, str); //calling function 
         }
     }
 }
